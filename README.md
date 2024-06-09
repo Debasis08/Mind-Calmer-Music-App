@@ -1,6 +1,6 @@
 ## A Next.js Project
 
-** A Simple Music Library**
+**A Simple Music Library**
 
 Language:
 **Typescript**
